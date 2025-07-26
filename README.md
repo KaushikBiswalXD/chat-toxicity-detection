@@ -1,4 +1,3 @@
-```markdown
 # Toxicity Detection Chat App (Tkinter)
 
 A desktop-based intelligent **chat application** built using **Tkinter (Python GUI)** that detects **toxic or aggressive language** in real-time chat and **penalizes the user** upon violation. The system uses pre-trained **BERT embeddings** and a two-stage classification pipeline to flag inappropriate messages and identify the **type of toxicity**.
