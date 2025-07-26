@@ -160,7 +160,3 @@ Pull requests are welcome! You could add:
 * Sarcasm detection
 * Emojis and media moderation
 * Multilingual hate support
-
-```
-
----
