@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Toxicity Detection Chat App (Tkinter)
 
