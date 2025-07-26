@@ -34,11 +34,11 @@ A desktop-based intelligent **chat application** built using **Tkinter (Python G
 toxicity-detection/
 │
 ├── app.py                      # Backend logic for classification
-├── chat\_gui.py                 # Tkinter GUI frontend
-├── aggressiveness\_detector.pkl
-├── hate\_category\_classifier.pkl
-├── bert\_model/                 # BERT weights (folder)
-├── bert\_tokenizer/             # Tokenizer files
+├── chat_gui.py                 # Tkinter GUI frontend
+├── aggressiveness_detector.pkl
+├── hate_category_classifier.pkl
+├── bert_model/                 # BERT weights (folder)
+├── bert_tokenizer/             # Tokenizer files
 ├── alert.wav                   # Sound played on toxic message
 ├── requirements.txt
 └── README.md
@@ -51,8 +51,8 @@ toxicity-detection/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/toxicity-detection.git
-cd toxicity-detection
+git clone https://github.com/KaushikBiswalXD/chat-toxicity-detection.git
+cd chat-toxicity-detection
 ````
 
 ### 2. Create a Virtual Environment (optional)
@@ -98,7 +98,7 @@ You’ll hear a warning sound and see a penalty message if aggression is detecte
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 * **User**: "You're a disgusting freak"
 * **Model Response**:
